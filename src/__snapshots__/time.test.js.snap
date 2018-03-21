@@ -1,0 +1,6 @@
+exports[`test renders 1`] = `
+<span
+  className="time">
+  a minute ago
+</span>
+`;
